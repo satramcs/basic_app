@@ -14,7 +14,10 @@ cd client
 npm install
 
 # Run the client & server with concurrently
+cd ..
 npm run dev
+
+#(OR)
 
 # Run the server only
 npm run server
@@ -29,5 +32,5 @@ npm run client
 Login - https://prnt.sc/rou9p5 <br />
 Register - https://prnt.sc/rouar4 <br />
 Dashboard (admin) - https://prnt.sc/roubev <br />
+Users List - https://prnt.sc/roubny <br />
 Dashboard (user) - https://prnt.sc/roubxv <br />
-Users List - https://prnt.sc/roubny 
