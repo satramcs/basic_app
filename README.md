@@ -27,7 +27,7 @@ npm run client
 ### Screnshot for reference
 
 __Login - https://prnt.sc/rou9p5__
-__Register - https://prnt.sc/rouar4
-__Dashboard (admin) - https://prnt.sc/roubev
-__Dashboard (user) - https://prnt.sc/roubxv
-__Users List - https://prnt.sc/roubny
+__Register - https://prnt.sc/rouar4__
+__Dashboard (admin) - https://prnt.sc/roubev__
+__Dashboard (user) - https://prnt.sc/roubxv__
+__Users List - https://prnt.sc/roubny__
