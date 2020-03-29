@@ -1,5 +1,5 @@
 ### Basic Login app
-> Basic Login App, Back end - Node.js, Mongodb, Front end - React.js
+> Basic Login App, Back end - Node.js, Mongodb, Front end - React.js <br />
 > User view for log-in & log-out functions and give view access to Admin
 
 ### Installation
@@ -26,13 +26,8 @@ npm run client
 ```
 ### Screnshot for reference
 
-__Login - https://prnt.sc/rou9p5__
-__Register - https://prnt.sc/rouar4__
-__Dashboard (admin) - https://prnt.sc/roubev__
-__Dashboard (user) - https://prnt.sc/roubxv__
-__Users List - https://prnt.sc/roubny__
-
-
-a<br />
-b<br />
-c<br />
+Login - https://prnt.sc/rou9p5 <br />
+Register - https://prnt.sc/rouar4 <br />
+Dashboard (admin) - https://prnt.sc/roubev <br />
+Dashboard (user) - https://prnt.sc/roubxv <br />
+Users List - https://prnt.sc/roubny 
