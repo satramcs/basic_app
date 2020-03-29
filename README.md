@@ -1,14 +1,8 @@
 ### Basic Login app
-Basic Login App, Back end - Node.js, Mongodb, Front end - React.js
-User view for log-in & log-out functions and give view access to Admin
-
+> Basic Login App, Back end - Node.js, Mongodb, Front end - React.js
+> User view for log-in & log-out functions and give view access to Admin
 
 ### Installation
-
-> Shopping list app built with the MERN stack along with Redux for state management, Reactstrap and react-transition-group.
-
-## Quick Start
-
 Mongodb Atlas used for storage, no need to configure mongodb
 
 ```bash
@@ -32,8 +26,8 @@ npm run client
 ```
 ### Screnshot for reference
 
-Login - https://prnt.sc/rou9p5
-Register - https://prnt.sc/rouar4
-Dashboard (admin) - https://prnt.sc/roubev
-Dashboard (user) - https://prnt.sc/roubxv
-(Users List) - https://prnt.sc/roubny
+> Login - https://prnt.sc/rou9p5
+> Register - https://prnt.sc/rouar4
+> Dashboard (admin) - https://prnt.sc/roubev
+> Dashboard (user) - https://prnt.sc/roubxv
+> Users List - https://prnt.sc/roubny
