@@ -28,6 +28,6 @@ npm run client
 
 __Login - https://prnt.sc/rou9p5__
 __Register - https://prnt.sc/rouar4
-> Dashboard (admin) - https://prnt.sc/roubev
-> Dashboard (user) - https://prnt.sc/roubxv
-> Users List - https://prnt.sc/roubny
+__Dashboard (admin) - https://prnt.sc/roubev
+__Dashboard (user) - https://prnt.sc/roubxv
+__Users List - https://prnt.sc/roubny
